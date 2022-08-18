@@ -56,5 +56,5 @@ The `mph` file for this project  is available in [This link](https://drive.googl
 
 
 
-Please [write your opinion about this project to me](mailto:mohammad.alighorbani@email.kntu.ac.ir). I'm open to continuing this work if you like to co-operate
+Please feel free to contact me about this project [on my email](mailto:maghorbani759@gmail.com).
 
