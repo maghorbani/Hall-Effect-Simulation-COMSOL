@@ -1,7 +1,4 @@
 ### Simulation of a Hall Effect sensor
-
-*Mohammad Ali Ghorbani* - report for the project of *Advanced Solid State Physics* graduate course, presented by *Dr. Manavizadeh* @ KN Toosi University of Technology
-
 #### Introduction
 
 A suggested structure, as a Hall Effect sensor, is studied by simulation, using COMSOL Multiphysics
